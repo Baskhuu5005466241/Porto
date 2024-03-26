@@ -7,6 +7,9 @@ First, run the development server:
 npm build
 ```
 ```bash
+next build
+```
+```bash
 npm install
 ```
 ```bash
